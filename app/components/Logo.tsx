@@ -17,6 +17,7 @@ export const Logo = ({ ...props }: LogoProps) => {
             fill='none'
             xmlns='http://www.w3.org/2000/svg'
         >
+            <title>Live JSON</title>
             <path
                 d='M0 55.3315V8.67522H9.21875C9.21875 8.67522 20.4688 37.0815 9.21875 47.2065C-2.03125 57.3315 28.9375 47.2065 28.9375 47.2065V55.3315H0Z'
                 fill='black'
